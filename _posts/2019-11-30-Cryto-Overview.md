@@ -1,5 +1,5 @@
 ---
-title: Crytopgraphy Overview by Gary C. Kessler
+title: Cryto Overview
 author: Gene
 layout: post
 ---
