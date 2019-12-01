@@ -8,15 +8,15 @@ I love learning about history.
 A well written book on history is to me, equivalent to some of the best fiction for entertainment value with the added kicker of it actually being directly informative to every day life.
 The actions and reactions of history often remind me of an excerpt from Shakespeare
 
-> There are more things in heaven and earth, Horatio,
-> Than are dreamt of in your philosophy.
+> There are more things in heaven and earth, Horatio,  
+> than are dreamt of in your philosophy.  
 > -- <cite> Hamlet (1.5.167-8) </cite> 
 
 Here, Hamlet is making the point that no matter how educated or intelligent one becomes you cannot explain the world in it's entirety, it is simply too vast and strange.
 
 To me, an analogue of this is works of fiction and works of history. 
-A work of fiction is a solution with a solvent of the real world experiences of the authour and a solute of imagination and creativity.
-While not to diminish the ability of an authour of fiction to add meaning by inserting this solute into the story, in some respects it can be an impossibility to make fiction stranger than truth. 
+A work of fiction is a solution with a solvent of the real world experiences of the author and a solute of imagination and creativity.
+While not to diminish the ability of an author of fiction to add meaning by inserting this solute into the story, in some respects it can be an impossibility to make fiction stranger than truth. 
 
 However, if I have one big criticism of the study of history it is the near impossibleness of judging any single event in isolation.
 Going deep into detail on World War 2 will certainly bring to your attention the fallout of the Treaty of Versailles, German hyperinflation as well as the isolationisnt American policies of the time etc... 
