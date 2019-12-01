@@ -21,7 +21,7 @@ order: 3
  11. Jim Watson: *Double Helix*
  12. Gene Kranz: *Failure is Not an Option*
  13. Werner Herzog: *Of Walking in Ice*
- 14. Simon Jenkins: *Short History of Europe*
+ 14. Simon Jenkins: [ *Short History of Europe* ](/2019/12/01/Short-History-of-Europe-Book-Review-Thoughts.html)
 
 <H2>Fiction</H2>
 
