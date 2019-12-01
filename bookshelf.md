@@ -12,7 +12,7 @@ order: 3
  2. Joshua Foer: *Moonwalking with Einstein*
  3. Hans Rosling: *Factfulness*
  4. Dan Grec: *The Road Chose Me*
- 5. George Gilder: *Life After Google*
+ 5. George Gilder: [ *Life After Google* ](/2019/12/01/Life-After-Google-Book-Review.html)
  6. Cassandra Overby: *Europe on Foot*
  7. Ryan Tandler: *Walking to Rome*
  8. Stephen Fry: *Mythos*
@@ -21,7 +21,7 @@ order: 3
  11. Jim Watson: *Double Helix*
  12. Gene Kranz: *Failure is Not an Option*
  13. Werner Herzog: *Of Walking in Ice*
- 14. Simon Jenkins: [ *Short History of Europe* ](/2019/12/01/Short-History-of-Europe-Book-Review-Thoughts.html)
+ 14. Simon Jenkins: [ *Short History of Europe* ](/2019/12/01/Short-History-of-Europe.html)
 
 <H2>Fiction</H2>
 
