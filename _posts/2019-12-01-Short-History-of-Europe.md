@@ -1,5 +1,5 @@
 ---
-title: Book Review: A Short History of Europe 
+title: A Short History of Europe 
 author: Gene
 layout: post
 ---
