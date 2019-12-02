@@ -16,5 +16,6 @@ One thing that definitely does shine through is the latter in Hemingway's use of
 which is probably worth the admission price in itself.
 
 We see the world through the old fisherman's eye on many occasions, using his knowledge and experience to see things in the ocean and life that we would
-never see ourselves. Seeing the wonder in the small details of long days of toil, of taking from the sea and giving back in equal measure. It is short and concise and easy to read but that does not mean that the events are not rich and full of detail. By the end of this short book you will have begun to sympathise with this
-old man, hoping that for his actions he will eventually be rewarded, waiting for Hemingway to give you the easy out.
+never see ourselves. Seeing the wonder in the small details of long days of toil, of taking from the sea and giving back in equal measure. It is short, concise and easy to read but that does not mean that the events are not rich and full of detail. By the end of this short book you will have begun to sympathise with this
+old man, hoping that for his actions he will eventually be rewarded, waiting for Hemingway to give you the easy out. Which he doesn't...but that just makes it
+more analagous to life really.
