@@ -1,5 +1,5 @@
 ---
-title: Life After Google 
+title: Life After Google
 author: Gene
 layout: post
 ---

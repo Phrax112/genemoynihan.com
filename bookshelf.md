@@ -25,7 +25,7 @@ order: 3
 
 <H2>Fiction</H2>
 
- 1. Ernest Hemingway: [ *The Old Man and the Sea* ](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+ 1. Ernest Hemingway: [ *The Old Man and the Sea* ](/2019/12/02/Old-Man-and-the-Sea.html)
  2. Fyodor Dostoevsky: *Crime and Punishment*
  3. Aldous Huxley: *Brave New World*
  4. Amor Towles: *A Gentleman in Moscow*

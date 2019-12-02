@@ -1,5 +1,5 @@
 ---
-title: A Short History of Europe 
+title: A Short History of Europe
 author: Gene
 layout: post
 ---
@@ -10,16 +10,16 @@ The actions and reactions of history often remind me of an excerpt from Shakespe
 
 > There are more things in heaven and earth, Horatio,  
 > than are dreamt of in your philosophy.  
-> -- <cite> Hamlet (1.5.167-8) </cite> 
+> -- <cite> Hamlet (1.5.167-8) </cite>
 
 Here, Hamlet is making the point that no matter how educated or intelligent one becomes you cannot explain the world in it's entirety, it is simply too vast and strange.
 
-To me, an analogue of this is works of fiction and works of history. 
+To me, an analogue of this is works of fiction and works of history.
 A work of fiction is a solution with a solvent of the real world experiences of the author and a solute of imagination and creativity.
-While not to diminish the ability of an author of fiction to add meaning by inserting this solute into the story, in some respects it can be an impossibility to make fiction stranger than truth. 
+While not to diminish the ability of an author of fiction to add meaning by inserting this solute into the story, in some respects it can be an impossibility to make fiction stranger than truth.
 
 However, if I have one big criticism of the study of history it is the near impossibleness of judging any single event in isolation.
-Going deep into detail on World War 2 will certainly bring to your attention the fallout of the Treaty of Versailles, German hyperinflation as well as the isolationisnt American policies of the time etc... 
+Going deep into detail on World War 2 will certainly bring to your attention the fallout of the Treaty of Versailles, German hyperinflation as well as the isolationisnt American policies of the time etc...
 But these are only (and can only be, given the awning rabbithole) the bare minimum required to have some context of the event itself.
 
 In his book, "A Short History of Europe" Simon Jenkins tries to help resolve this problem.
