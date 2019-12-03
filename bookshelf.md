@@ -9,7 +9,7 @@ order: 3
 <H2>Non-Fiction</H2>
 
  1. Jordan Ellenberg: *How Not to be Wrong: The Power of Mathematical Thinking*
- 2. Joshua Foer: *Moonwalking with Einstein*
+ 2. Joshua Foer: *Moonwalking with Einstein* (/2019/12/02/Moonwalking-With-Einstein-Book-Review.html)
  3. Hans Rosling: *Factfulness*
  4. Dan Grec: *The Road Chose Me*
  5. George Gilder: [ *Life After Google* ](/2019/12/01/Life-After-Google-Book-Review.html)
@@ -36,7 +36,7 @@ order: 3
  9. Patrick Rothfuss: *Name of the Wind*
  10. Patrick Rothduss: *The Slow Regard of Silent Things*
  11. Charles Dickens: *Great Expectations*
- 12. John Le Carre: *Spy Who Came in From the Cold*
+ 12. John Le Carre: *The Spy Who Came in From the Cold*
  13. Alexandre Dumas: *The Count of Monte Cristo*
  14. Ernest Hemingway: *Islands in the Stream*
  15. Frank Delaney: *Ireland*

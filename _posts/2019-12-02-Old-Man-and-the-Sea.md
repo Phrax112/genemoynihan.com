@@ -4,18 +4,13 @@ author: Gene
 layout: post
 ---
 
-I read "The Old Man and the Sea" by Ernest Hemingway in one sitting in a small cafe in Nago, Okinawa about 100 metres from the seafront. Seeing one of the worlds largest aquariums
-and coming face to face with some incredible creatures of the deep probably influenced me to finally read this one which has been on my todo list
-for many years. It is a very short book, which contributes to the easy recommendation due to the lack of time commitment required. The writing is great
-and there are a myriad of various levels of comprehension (allegedly) for you to get your teeth into. I do however have mixed feelings about this book.
-It's one of those books which leaves you with more questions than answers... Which I guess could well be a good thing, lacking a certain sense of closure but often making you question it, mulling over its meaning in your mind.
+> Beauty in nature  
+> marlins, baseball, death overhead  
+> old man and the sea  
+> -- A Haiku, Me
 
-Hemingway's famous work of the old fisherman and his quest for the great marlin smacks of the allegorical in a lot of ways.
-It could be interpreted as being about any number of traditional topics: the virtues of hard work and dedication, luck and fortune, fulfillment of life through suffering, of love for the natural world in it's beauty and the absolute rule of justice within it etc...
-One thing that definitely does shine through is the latter in Hemingway's use of language in describing the events throughout the book,
-which is probably worth the admission price in itself.
+Short and maybe not so sweet, Ernest Hemingway's "The Old Man and the Sea" can be interpreted in lots of ways most of what are beyond the effort being put into this blog post.
 
-We see the world through the old fisherman's eye on many occasions, using his knowledge and experience to see things in the ocean and life that we would
-never see ourselves. Seeing the wonder in the small details of long days of toil, of taking from the sea and giving back in equal measure. It is short, concise and easy to read but that does not mean that the events are not rich and full of detail. By the end of this short book you will have begun to sympathise with this
-old man, hoping that for his actions he will eventually be rewarded, waiting for Hemingway to give you the easy out. Which he doesn't...but that just makes it
-more analagous to life really.
+What I can tell say is that this book is really more of an essay (think 1 hour of reading time at any reasonable pace), excellently written and full of Hemingway's characteristic depictions of nature. For those that haven't read much of him this means that nature will always be at the forefront of every setting and central to any ongoings. Visually depicting the beauty of nature as well as it's absolute sense of justice and total disregard for mortal life is one of Hemingway's greatest assets and it is essentially the entire premise of this short book.
+
+This is one of those books that has been on my todo list for a long time and I finally got to it at a seaside cafe in Nago, Okinawa on a perfect Autumn day this year. A perfect setting for this kind of book and I did very much enjoy reading it. However, I feel it will be a long time before I pick up this book again. It is a difficult kind feeling to isolate but if I had to guess I think I was disappointed. I didn't learn anything or gain insights into life, the hidden layers of which much has been written about before didn't expose themselves to me beyond the obvious metaphors. Perhaps this book is one which has to come to you.
