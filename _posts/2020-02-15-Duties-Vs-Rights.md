@@ -61,4 +61,4 @@ I think a possible root to this problem is that with the decoupling of rights, d
 I don't have any sort of concrete answer to the emerging problems in our society and how they should be fixed, frankly I wouldn't trust anyone who says they do. But, while the idea of group based rights is eroded and gone perhaps we should look at reinforcing the idea of duties to society instead, based on our aptitude and ability on an individual level. That while there are infinite possibilities for every person to pursue unabashedly there are many well trodden paths which carry no shame as a valuable duty to society.
 
 >“If a man is called to be a street sweeper, he should sweep streets even as a Michaelangelo painted, or Beethoven composed music or Shakespeare wrote poetry. He should sweep streets so well that all the hosts of heaven and earth will pause to say, 'Here lived a great street sweeper who did his job well.”
-―- Martin Luther King Jr.
+-- Martin Luther King Jr.

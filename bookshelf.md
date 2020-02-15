@@ -9,7 +9,7 @@ order: 3
 <H2>Non-Fiction</H2>
 
  1. Jordan Ellenberg: *How Not to be Wrong: The Power of Mathematical Thinking*
- 2. Joshua Foer: [ *Moonwalking with Einstein* ](/2019/12/02/Moonwalking-With-Einstein-Book-Review.html)
+ 2. Joshua Foer: *Moonwalking with Einstein*
  3. Hans Rosling: *Factfulness*
  4. Dan Grec: *The Road Chose Me*
  5. George Gilder: [ *Life After Google* ](/2019/12/01/Life-After-Google-Book-Review.html)
