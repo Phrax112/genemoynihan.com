@@ -42,3 +42,7 @@ order: 3
  14. Ernest Hemingway: *Islands in the Stream*
  15. Frank Delaney: *Ireland*
  16. Leo Tolstoy: *Anna Karenina*
+ 17. Leo Tolstoy: *The Death of Ivan Ilych*
+ 18. Leo Tolstoy: *War and Peace*
+ 19. Kurt Vonnegut: *Slaughterhouse Five*
+ 20. Gabriel García Márquez: *100 Years of Solitude*
