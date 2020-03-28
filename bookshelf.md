@@ -1,6 +1,6 @@
 ---
 title: Bookshelf
-subtitle: A list of books I've been reading since early 2019.
+subtitle: A list of books I've read since early 2019.
 layout: "page"
 icon: fa-book
 order: 3
@@ -23,6 +23,9 @@ order: 3
  13. Werner Herzog: *Of Walking in Ice*
  14. Simon Jenkins: [ *Short History of Europe* ](/2019/12/01/Short-History-of-Europe.html)
  15. Marcus du Sautoy: *What We Cannot Know: Explorations at the Edge of Knowledge*
+ 16. Roger Scruton: *How to be a Conservative*
+ 17. Richard P. Feynman: *Surely You're Joking Mr. Feynman!*
+ 18. Jared Diamond: *Upheaval*
 
 <H2>Fiction</H2>
 
@@ -43,6 +46,19 @@ order: 3
  15. Frank Delaney: *Ireland*
  16. Leo Tolstoy: *Anna Karenina*
  17. Leo Tolstoy: *The Death of Ivan Ilych*
- 18. Leo Tolstoy: *War and Peace*
- 19. Kurt Vonnegut: *Slaughterhouse Five*
- 20. Gabriel García Márquez: *100 Years of Solitude*
+ 18. Kurt Vonnegut: *Slaughterhouse Five*
+ 19. Gabriel García Márquez: *100 Years of Solitude*
+
+ <H2>Educational Text Books</H2>
+
+ 1. Tim Roughgarden: *Algorithms Illuminated*
+ 2. Ivan Savov: *No Bullshit Guide to Maths and Physics*
+ 3. George Ornbo: *Sams Teach Yourself Go*
+
+ <H2>Wishlist/In Progress</H2>
+
+ 1. A. D. Aleksandrov: *Mathematics: Its Content, Methods and Meaning*
+ 2. Leo Tolstoy: *War and Peace*
+ 3. Ivan Savov: *No Bullshit Guide to Linear Algebra*
+ 4. Daily Language Learning: *The Ultimate Guide for Beginners Who Want To Learn The Italian Language*
+ 5. Daily Language Learning: *Italian Short Stories*
