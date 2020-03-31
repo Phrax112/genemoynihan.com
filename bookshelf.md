@@ -62,3 +62,17 @@ order: 3
  3. Ivan Savov: *No Bullshit Guide to Linear Algebra*
  4. Daily Language Learning: *The Ultimate Guide for Beginners Who Want To Learn The Italian Language*
  5. Daily Language Learning: *Italian Short Stories*
+ 6. Morris Kline: *Mathematics for the Nonmathematician*
+ 7. Ian Stewart: *Concepts of Modern Mathematics*
+ 8. John Stillwell: *Mathematics and Its History*
+ 9. Peter J. Eccles: *An Introduction to Mathematical Reasoning*
+ 10. Richard Hammack: *Book of Proof*
+ 11. Michael Spivak: *Calculus*
+ 12. Phillip Klein: *Coding the Matrix: Linear Algebra through Applications to Computer Science*
+ 13. Tenenbaum and Pollard: *Ordinary Differential Equations*
+ 14. Hossein Pishro-Nik: *Introduction to Probability, Statistics, and Random Processes*
+ 15. Chris Voss: *Never Split the Difference*
+ 16. Peter Boghossian and James Lindsay: *How to Have Impossible Conversations*
+ 17. Any of these: https://danluu.com/programming-books/
+ 18. Thorsten Ball: *Writing An Interpreter In Go*
+ 19. Frank Herbert: *Dune*
