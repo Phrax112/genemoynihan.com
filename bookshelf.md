@@ -48,7 +48,9 @@ order: 3
  17. Leo Tolstoy: *The Death of Ivan Ilych*
  18. Kurt Vonnegut: *Slaughterhouse Five*
  19. Gabriel García Márquez: *100 Years of Solitude*
-
+ 20. Frank Herbert: *Dune*
+ 21. Khaled Hosseini: *The Kite Runner*
+ 
  <H2>Educational Text Books</H2>
 
  1. Tim Roughgarden: *Algorithms Illuminated*
@@ -75,4 +77,4 @@ order: 3
  16. Peter Boghossian and James Lindsay: *How to Have Impossible Conversations*
  17. Any of these: https://danluu.com/programming-books/
  18. Thorsten Ball: *Writing An Interpreter In Go*
- 19. Frank Herbert: *Dune*
+ 19. Douglas R. Hofstadter: *Gödel, Escher, Bach: An Eternal Golden Braid*
