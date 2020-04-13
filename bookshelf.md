@@ -50,7 +50,8 @@ order: 3
  19. Gabriel García Márquez: *100 Years of Solitude*
  20. Frank Herbert: *Dune*
  21. Khaled Hosseini: *The Kite Runner*
- 
+ 22. Paul Beatty: [ *The Sellout* ](/2020/04/13/The-Sellout.html)
+
  <H2>Educational Text Books</H2>
 
  1. Tim Roughgarden: *Algorithms Illuminated*
