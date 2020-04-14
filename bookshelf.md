@@ -26,6 +26,7 @@ order: 3
  16. Roger Scruton: *How to be a Conservative*
  17. Richard P. Feynman: *Surely You're Joking Mr. Feynman!*
  18. Jared Diamond: *Upheaval*
+ 19. George Orwell: *Down and Out in Paris and London*
 
 <H2>Fiction</H2>
 
