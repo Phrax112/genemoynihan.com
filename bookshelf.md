@@ -52,6 +52,7 @@ order: 3
  20. Frank Herbert: *Dune*
  21. Khaled Hosseini: *The Kite Runner*
  22. Paul Beatty: [ *The Sellout* ](/2020/04/13/The-Sellout.html)
+ 23. Steven Erikson: *Gardens of the Moon*
 
  <H2>Educational Text Books</H2>
 
