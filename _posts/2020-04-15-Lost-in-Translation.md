@@ -4,7 +4,7 @@ author: Gene
 layout: post
 ---
 
-*Background*
+*Background*  
 Lost in Translation is a 2003 film, directed by Sofia Coppola, set predominantly within a hotel in modern Tokyo starring Bill Murray and Scarlett Johansson.
 
 
