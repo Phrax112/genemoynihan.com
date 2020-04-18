@@ -136,4 +136,4 @@ For the information on what all of these variables point to just check the Githu
 
 When all is said and done this is an example of the email I get in my inbox every morning once I've set up this script to run on a cron job on my raspberry pi. The formatting is pretty ugly as it's currently just raw HTML but some prettifying is pretty straight forward with a style sheet. Plus, the uglier it is the less time I spent looking at it and thinking how bad my investments are!
 
-![Email Message](assets/images/marketwatcher_example.png)
+![Email Message](/assets/images/marketwatcher_example.png)
