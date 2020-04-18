@@ -4,7 +4,7 @@ author: Gene
 layout: post
 ---
 
-[ * Github link for discussed code * ](https://github.com/Phrax112/MarketWatcher)
+[ *Github link for discussed code* ](https://github.com/Phrax112/MarketWatcher)
 
 I recently came across a cool daily stock market emailer called [ *Bullish* ](https://bullish.email/) on HN. However, despite the nice formatting I wanted to create something similar which would allow me to tailor the updates to stocks I was interested/invested in. Given I've been learning Python over the last couple of weeks this seemed like a good one day project to learn some skills.
 
