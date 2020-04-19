@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Gene Moynihan
-subtitle: Books, technology, travel
+subtitle: Books, technology and stuff
 description: >- # this means to ignore newlines until "baseurl:"
     A collection of thoughts, ideas and ramblings for sharing, archiving and discussing.
     Don't take it too seriously.
@@ -51,7 +51,7 @@ googleplus_url:
 instagram_url:
 linkedin_url:
 github_url: "https://github.com/Phrax112"
-pinterest_url: 
+pinterest_url:
 slack_url:
 dribbble_url:
 
