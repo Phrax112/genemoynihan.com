@@ -9,7 +9,7 @@ layout: post
 I recently came across a cool daily stock market emailer called [ *Bullish* ](https://bullish.email/) on HN. However, despite the nice formatting I wanted to create something similar which would allow me to tailor the updates to stocks I was interested/invested in. Given I've been learning Python over the last couple of weeks this seemed like a good one day project to learn some skills.
 
 <h3>Aside</h3>
-Most sentences of this blog can be read with the prefix "After some googling..." . For the sake of the reader and my fingers I will leave it out from this point on. One other thing, all of this was done using Python 3.7.7 on Mac OS Catalina.
+Most sentences of this blog can be read with the prefix "After some googling/duck duck going..." . For the sake of the reader and my fingers I will leave it out from this point on. One other thing, all of this was done using Python 3.7.7 on Mac OS Catalina.
 
 It appears the Yahoo Finance API has been deprecated but is still available for use if you know how (or your library of choice does). Given I simply wanted historic closing prices for a small selection of dates I decided to stick with this particular provider as I have found it the best in the past. The [ *yfinance* ](https://pypi.org/project/yfinance/) library is a nice choice for this kind of action as it allows you to pass multiple symbols at once and comes with a whole host of other functionality if you did find yourself wanting to include market calendars, dividends etc... down the line. All market data is downloaded as a handy dataframe for further manipulation.
 

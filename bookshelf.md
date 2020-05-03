@@ -53,6 +53,7 @@ order: 3
  21. Khaled Hosseini: *The Kite Runner*
  22. Paul Beatty: [ *The Sellout* ](/2020/04/13/The-Sellout.html)
  23. Steven Erikson: *Gardens of the Moon*
+ 24. John Williams: *Stoner*
 
  <H2>Educational Text Books</H2>
 
