@@ -6,6 +6,8 @@ icon: fa-book
 order: 3
 ---
 
+
+
 <H2>Non-Fiction</H2>
 
  1. Jordan Ellenberg: *How Not to be Wrong: The Power of Mathematical Thinking*
@@ -54,6 +56,7 @@ order: 3
  22. Paul Beatty: [ *The Sellout* ](/2020/04/13/The-Sellout.html)
  23. Steven Erikson: *Gardens of the Moon*
  24. John Williams: *Stoner*
+ 25. Steven Erikson: *Deadhouse Gates*
 
  <H2>Educational Text Books</H2>
 
