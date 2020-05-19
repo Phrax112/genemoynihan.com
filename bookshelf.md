@@ -30,6 +30,9 @@ order: 3
  18. Jared Diamond: *Upheaval*
  19. George Orwell: *Down and Out in Paris and London*
  20. Jared Diamond: *Collapse*
+ 21. Michael Lewis: *Flash Boys*
+ 22. Michael Lewis: *The Undoing Project*
+ 23. Michael Lewis: *The Big Short*
 
 <H2>Fiction</H2>
 
@@ -58,6 +61,7 @@ order: 3
  23. Steven Erikson: *Gardens of the Moon*
  24. John Williams: *Stoner*
  25. Steven Erikson: *Deadhouse Gates*
+ 26. Steven Erikson: *Memories of Ice*
 
  <H2>Educational Text Books</H2>
 
