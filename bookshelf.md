@@ -33,6 +33,7 @@ order: 3
  21. Michael Lewis: *Flash Boys*
  22. Michael Lewis: *The Undoing Project*
  23. Michael Lewis: *The Big Short*
+ 24. Viktor E. Frankl: *Man's Search for Meaning*
 
 <H2>Fiction</H2>
 
@@ -62,6 +63,7 @@ order: 3
  24. John Williams: *Stoner*
  25. Steven Erikson: *Deadhouse Gates*
  26. Steven Erikson: *Memories of Ice*
+ 27. David Mitchell: *The Thousand Autumns of Jacob de Zoet*
 
  <H2>Educational Text Books</H2>
 
