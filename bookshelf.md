@@ -34,6 +34,8 @@ order: 3
  22. Michael Lewis: *The Undoing Project*
  23. Michael Lewis: *The Big Short*
  24. Viktor E. Frankl: *Man's Search for Meaning*
+ 25. Christopher Hitchens: *Thomas Paine's Rights of Man*
+ 26. Michael Lewis: *The Fifth Risk*
 
 <H2>Fiction</H2>
 
