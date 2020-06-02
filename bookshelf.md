@@ -66,6 +66,7 @@ order: 3
  25. Steven Erikson: *Deadhouse Gates*
  26. Steven Erikson: *Memories of Ice*
  27. David Mitchell: *The Thousand Autumns of Jacob de Zoet*
+ 28. Paul Beatty: *Slumberland*
 
  <H2>Educational Text Books</H2>
 
