@@ -36,6 +36,8 @@ order: 3
  24. Viktor E. Frankl: *Man's Search for Meaning*
  25. Christopher Hitchens: *Thomas Paine's Rights of Man*
  26. Michael Lewis: *The Fifth Risk*
+ 27. Liam Vaughan: *Flash Crash*
+ 28. J. D. Vance: *Hillbilly Elegy*
 
 <H2>Fiction</H2>
 
@@ -45,7 +47,7 @@ order: 3
  4. Amor Towles: *A Gentleman in Moscow*
  5. Ken Follett: *Pillars of the Earth*
  6. Phillip K. Dick: *Do Androids Dream of Electric Sheep*
- 7. J.R.R Tolkien: *Fall of Gondolin*
+ 7. J. R. R. Tolkien: *Fall of Gondolin*
  8. Jin Yong: *A Hero Born*
  9. Patrick Rothfuss: *Name of the Wind*
  10. Patrick Rothfuss: *The Slow Regard of Silent Things*
