@@ -38,6 +38,7 @@ order: 3
  26. Michael Lewis: *The Fifth Risk*
  27. Liam Vaughan: *Flash Crash*
  28. J. D. Vance: *Hillbilly Elegy*
+ 29. Nassim Nicholas Taleb: *Skin In The Game*
 
 <H2>Fiction</H2>
 
