@@ -39,6 +39,7 @@ order: 3
  27. Liam Vaughan: *Flash Crash*
  28. J. D. Vance: *Hillbilly Elegy*
  29. Nassim Nicholas Taleb: *Skin In The Game*
+ 30. Annie Duke: *Thinking in Bets*
 
 <H2>Fiction</H2>
 
