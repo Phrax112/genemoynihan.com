@@ -6,7 +6,11 @@ icon: fa-book
 order: 3
 ---
 
+I'm somewhat torn on the 'known' quality vs 'diverse' quantity debate on reading which seems to be going around at the moment. I think like most things the answer lies somewhere in the murky middle, making a best effort to strike a balance between giving new and challenging books a chance while also committing time to studying known entities. In the same discussion is the balance between modern and classic literature, bestsellers and forgotten/lost gems etc... Reading is an activity which rewards you for pushing your comfort zone but at the end of the day I believe the book mostly informs you of when the time is right.
 
+While sometimes it seems the 'yet to finish' book pile is only matched by entropy and Amazon wishlists in it's relentless march towards counting infinity these then are the books I have fully finished since earlyish 2019 when I decided to start tracking them. The desire to start doing so was an attempt to hold myself accountable to the balance discussed in the paragraph above. I do not know how successful it's been in faciliating that goal, given the lack of a control in this experiment, but I am yet to tire of it. The next goal will be to curate these lists for a few more years, generate some metrics around how and what I read and maybe start consciously guiding it. 
+
+Or the 'yet to finish' pile will drown me, it's a race (maybe I should use a Kindle...)
 
 <H2>Non-Fiction</H2>
 
@@ -40,6 +44,7 @@ order: 3
  28. J. D. Vance: *Hillbilly Elegy*
  29. Nassim Nicholas Taleb: *Skin In The Game*
  30. Annie Duke: *Thinking in Bets*
+ 31. Yuval Noah Harari: *Sapiens*
 
 <H2>Fiction</H2>
 
