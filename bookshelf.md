@@ -8,7 +8,7 @@ order: 3
 
 I'm somewhat torn on the 'known' quality vs 'diverse' quantity debate on reading which seems to be going around at the moment. I think like most things the answer lies somewhere in the murky middle, making a best effort to strike a balance between giving new and challenging books a chance while also committing time to studying known entities. In the same discussion is the balance between modern and classic literature, bestsellers and forgotten/lost gems etc... Reading is an activity which rewards you for pushing your comfort zone but at the end of the day I believe the book mostly informs you of when the time is right.
 
-While sometimes it seems the 'yet to finish' book pile is only matched by entropy and Amazon wishlists in it's relentless march towards counting infinity these then are the books I have fully finished since earlyish 2019 when I decided to start tracking them. Doing so was an attempt to hold myself accountable to the balance discussed in the paragraph above. I will never know how successful it is in faciliating that goal, given the lack of a control in this experiment, but I think it one of those things that in a few years may provide an interesting picture. 
+While sometimes it seems the 'yet to finish' book pile is only matched by entropy and Amazon wishlists in it's relentless march towards counting infinity these then are the books I have fully finished since earlyish 2019 when I decided to start tracking them. Doing so was an attempt to hold myself accountable to the balance discussed in the paragraph above. I will never know how successful it is in faciliating that goal, given the lack of a control in this experiment, but I think it one of those things that in a few years may provide an interesting picture.
 
 Or the 'yet to finish' pile will drown me, it's a race (maybe I should use a Kindle...)
 
@@ -45,6 +45,8 @@ Or the 'yet to finish' pile will drown me, it's a race (maybe I should use a Kin
  29. Nassim Nicholas Taleb: *Skin In The Game*
  30. Annie Duke: *Thinking in Bets*
  31. Yuval Noah Harari: *Sapiens*
+ 32. Yuval Noah Harari: *Homo Deus*
+ 33. Gavin Daly & Ian Kehoe: *Citizen Quinn*
 
 <H2>Fiction</H2>
 
