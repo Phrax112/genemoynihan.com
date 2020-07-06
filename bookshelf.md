@@ -1,6 +1,5 @@
 ---
 title: Bookshelf
-subtitle: A list of books I've read since early 2019.
 layout: "page"
 icon: fa-book
 order: 3
@@ -8,7 +7,7 @@ order: 3
 
 I'm somewhat torn on the 'known' quality vs 'diverse' quantity debate on reading which seems to be going around at the moment. I think like most things the answer lies somewhere in the murky middle, making a best effort to strike a balance between giving new and challenging books a chance while also committing time to studying known entities. In the same discussion is the balance between modern and classic literature, bestsellers and forgotten/lost gems etc... Reading is an activity which rewards you for pushing your comfort zone but at the end of the day I believe the book mostly informs you of when the time is right.
 
-While sometimes it seems the 'yet to finish' book pile is only matched by entropy and Amazon wishlists in it's relentless march towards counting infinity these then are the books I have fully finished since earlyish 2019 when I decided to start tracking them. Doing so was an attempt to hold myself accountable to the balance discussed in the paragraph above. I will never know how successful it is in faciliating that goal, given the lack of a control in this experiment, but I think it one of those things that in a few years may provide an interesting picture.
+While sometimes it seems the 'yet to finish' book pile is only matched by entropy and Amazon wishlists in it's relentless march towards counting infinity these then are the books I have fully finished since earlyish 2019 when I decided to start tracking them. Doing so was an attempt to hold myself accountable to the balance discussed in the paragraph above. I will never know how successful it is in facilitating that goal, given the lack of a control in this experiment, but I think it is one of those things that in a few years may provide an interesting picture.
 
 Or the 'yet to finish' pile will drown me, it's a race (maybe I should use a Kindle...)
 
