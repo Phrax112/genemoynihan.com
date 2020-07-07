@@ -46,6 +46,7 @@ Or the 'yet to finish' pile will drown me, it's a race (maybe I should use a Kin
  31. Yuval Noah Harari: *Sapiens*
  32. Yuval Noah Harari: *Homo Deus*
  33. Gavin Daly & Ian Kehoe: *Citizen Quinn*
+ 34. Ben Mezrich: *Bitcoin Billionaires*
 
 <H2>Fiction</H2>
 
