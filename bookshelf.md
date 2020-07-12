@@ -47,6 +47,7 @@ Or the 'yet to finish' pile will drown me, it's a race (maybe I should use a Kin
  32. Yuval Noah Harari: *Homo Deus*
  33. Gavin Daly & Ian Kehoe: *Citizen Quinn*
  34. Ben Mezrich: *Bitcoin Billionaires*
+ 35. Walter Isaacson: *Leonardo Da Vinci*
 
 <H2>Fiction</H2>
 
