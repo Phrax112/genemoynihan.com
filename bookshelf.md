@@ -48,6 +48,7 @@ Or the 'yet to finish' pile will drown me, it's a race (maybe I should use a Kin
  33. Gavin Daly & Ian Kehoe: *Citizen Quinn*
  34. Ben Mezrich: *Bitcoin Billionaires*
  35. Walter Isaacson: *Leonardo Da Vinci*
+ 26. Richard P. Feynman: *The Meaning of It All: Thoughts of a Citizen Scientist*
 
 <H2>Fiction</H2>
 
@@ -79,6 +80,7 @@ Or the 'yet to finish' pile will drown me, it's a race (maybe I should use a Kin
  26. Steven Erikson: *Memories of Ice*
  27. David Mitchell: *The Thousand Autumns of Jacob de Zoet*
  28. Paul Beatty: *Slumberland*
+ 29. Steven Erikson: *Midnight Tides*
 
  <H2>Educational Text Books</H2>
 
