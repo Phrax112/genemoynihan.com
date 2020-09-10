@@ -84,6 +84,7 @@ Or the 'yet to finish' pile will drown me, it's a race (maybe I should use a Kin
  28. Paul Beatty: *Slumberland*
  29. Steven Erikson: *Midnight Tides*
  30. Franz Kafka: *The Trial*
+ 31. Frank Herbert: *Messiahs of Dune* 
  
  <H2>Educational Text Books</H2>
 
