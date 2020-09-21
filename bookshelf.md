@@ -83,8 +83,12 @@ Or the 'yet to finish' pile will drown me, it's a race (maybe I should use a Kin
  27. David Mitchell: *The Thousand Autumns of Jacob de Zoet*
  28. Paul Beatty: *Slumberland*
  29. Steven Erikson: *Midnight Tides*
- 30. Franz Kafka: *The Trial*
+ 30. Steven Erikson: *Toll the Hounds*
  31. Frank Herbert: *Messiahs of Dune* 
+ 32. Ernest Hemingway: *A Call to Arms*
+ 33. Ernest Hemingway: *Snows of Kilimanjaro*
+ 34. Ernest Hemingway: *At First Light*
+ 35. Steven Erikson: *Reapers Gale*
  
  <H2>Educational Text Books</H2>
 
